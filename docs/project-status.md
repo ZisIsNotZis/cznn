@@ -31,4 +31,4 @@ optional heavy dependencies).
 - The `cvorat` fork is not duplicated here; it needs `flash_attn` to import.
 - `Dat` expects `.map` sidecar files next to a memmapped corpus — it will not run
   without the author's local data.
-- No packaging, no CI, no versioning. No license declared (default copyright).
+- No packaging, no CI, no versioning. Licensed under GNU AGPL v3 (`LICENSE`).

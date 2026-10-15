@@ -63,5 +63,4 @@ library: no packaging, no CI, the API is whatever the author needed at the time.
 It is published because the reuse evidence is real and it is otherwise only
 visible as a side-file inside another project.
 
-**License:** none declared — default copyright applies; this is personal
-research code, not a redistribution-ready package.
+**License:** GNU AGPL v3 (see [`LICENSE`](LICENSE)).
